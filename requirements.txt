@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+gtts
+datetime
+wikipedia
